@@ -90,16 +90,16 @@ A conclusão que foi observada é que em dois segundos rodando a aplicação e a
 A injeção de dependência (DI) é uma prática fundamental no desenvolvimento de aplicativos modernos, especialmente em frameworks como ASP.NET Core. Nesta etapa, exploraremos como obter um medidor usando a injeção de dependência, uma abordagem mais flexível e recomendada em ambientes que utilizam DI, como o ASP.NET Core.
 
 ### 1. Criação de uma Web Application
-Para isso, foi criado um novo aplicativo web via IDE, que também pode ser criado pelo comando `dotnet new console`.
+Para isso, foi criado um novo aplicativo web via IDE, que também pode ser criado pelo comando `dotnet new web`.
 
 <p align="center">
-    <img src="/assets/1.png" width="80%">
+    <img src="/assets/pt2.9.png" width="80%">
 </p>
 
-A saída foi a seguinte, com o template de Console Application vazio:
+A saída foi a seguinte, com o template de Web Application:
 
 <p align="center">
-    <img src="/assets/2.png" width="80%">
+    <img src="/assets/pt2.10.png" width="80%">
 </p>
 
 ### 2. Configuração do projeto
