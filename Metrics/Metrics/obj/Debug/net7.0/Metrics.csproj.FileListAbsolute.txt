@@ -1,0 +1,17 @@
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/bin/Debug/net7.0/Metrics
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/bin/Debug/net7.0/Metrics.deps.json
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/bin/Debug/net7.0/Metrics.runtimeconfig.json
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/bin/Debug/net7.0/Metrics.dll
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/bin/Debug/net7.0/Metrics.pdb
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/bin/Debug/net7.0/System.Diagnostics.DiagnosticSource.dll
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/Metrics.csproj.AssemblyReference.cache
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/Metrics.GeneratedMSBuildEditorConfig.editorconfig
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/Metrics.AssemblyInfoInputs.cache
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/Metrics.AssemblyInfo.cs
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/Metrics.csproj.CoreCompileInputs.cache
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/Metrics.csproj.CopyComplete
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/Metrics.dll
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/refint/Metrics.dll
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/Metrics.pdb
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/Metrics.genruntimeconfig.cache
+/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/Debug/net7.0/ref/Metrics.dll

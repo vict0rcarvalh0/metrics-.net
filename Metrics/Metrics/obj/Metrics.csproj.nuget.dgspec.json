@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/Metrics.csproj": {}
+  },
+  "projects": {
+    "/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/Metrics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/Metrics.csproj",
+        "projectName": "Metrics",
+        "projectPath": "/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/Metrics.csproj",
+        "packagesPath": "/home/victorcarvalho/.nuget/packages/",
+        "outputPath": "/home/victorcarvalho/Documents/Rider/Projects/Metrics/Metrics/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/victorcarvalho/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/victorcarvalho/.asdf/installs/dotnet/7.0.408/sdk/7.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
